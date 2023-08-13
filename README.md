@@ -14,4 +14,3 @@ Discover the exciting realm of embedded systems and IoT through my project invol
 
 ## Scientific Paper: Innovation in Waste Management with Arduino-based Solution
 Dive into the world of academia with my scientific paper on the innovative application of Arduino technology in waste management. This paper discusses the concept, design, and implementation of the Smart Trash Bin project, offering a deeper understanding of its potential impact on sustainable urban living.
-
